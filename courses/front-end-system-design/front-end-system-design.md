@@ -38,6 +38,8 @@ Innermost first
 
 Possible Optimization: use CSS properties that do not trigger the CPU intensive parts of the reflow (Style & Layout). For example, by using `transform` property for animations.
 
+Also: requestAnimationFrame() is useful for ensuring animations run 60fps and does not block rendering
+
 ### Compoistion Layers
 
 ![alt text](<Screenshot 2024-09-20 at 13.37.20.png>)
