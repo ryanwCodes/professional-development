@@ -57,4 +57,10 @@ Add/Removing elements is very costly
 ## Observer API
 
 ![alt text](<Screenshot 2024-09-20 at 14.56.09.png>)
+### Resize Observer
+![alt text](<Screenshot 2024-09-25 at 11.11.42.png>)
 
+## Virtualization
+![alt text](<Screenshot 2024-09-26 at 09.29.55.png>)
+
+![alt text](<Screenshot 2024-09-26 at 09.30.22.png>)
