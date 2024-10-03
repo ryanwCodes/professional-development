@@ -64,3 +64,9 @@ Add/Removing elements is very costly
 ![alt text](<Screenshot 2024-09-26 at 09.29.55.png>)
 
 ![alt text](<Screenshot 2024-09-26 at 09.30.22.png>)
+
+## Application State
+![alt text](<Screenshot 2024-09-27 at 11.25.49.png>)
+
+### Networking
+![alt text](<Screenshot 2024-10-02 at 10.12.41.png>)
