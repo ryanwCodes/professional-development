@@ -70,3 +70,43 @@ Add/Removing elements is very costly
 
 ### Networking
 ![alt text](<Screenshot 2024-10-02 at 10.12.41.png>)
+
+## Performance Optimization
+
+![alt text](<Screenshot 2024-10-15 at 10.29.56.png>)
+
+### LCP
+1. JS Bundle Optimization 
+    - ES6 vs ES2020 will result in very different bundle sizes
+    - So we should instruct compiler to prepare several budles based on js version
+2. Code Split
+    - Can use with "preload" (high priority) and "prefetch" (low  priority)
+3.  Code Mini & Compression
+    - gzip vs brotli (20-30% more efficient, supported by most browsers, maybe not old ones)
+4. Deferred Loading
+    - says we don't need it for first load
+    - good for analytics scripts
+
+## Images
+
+![alt text](<Screenshot 2024-10-15 at 11.54.08.png>)
+
+* webp is designed to replace jpg, png, and gif
+* Make sure you compress images, svgs
+
+## Fonts
+![alt text](<Screenshot 2024-10-15 at 12.15.46.png>)
+
+# Performance Optimization Summary 
+
+### Rendering
+![alt text](<Screenshot 2024-10-15 at 12.17.48.png>)
+
+### Javascript
+![alt text](<Screenshot 2024-10-15 at 12.19.41.png>)
+
+#### Images
+1. Compress imagees for web
+2. use optimized formats   
+3. Use SVG Path compression
+
